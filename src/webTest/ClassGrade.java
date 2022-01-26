@@ -6,7 +6,7 @@ package webTest;
  */
 
 public class ClassGrade {
-	int English=70, Math=67, Physics=56;
+	int English=89, Math=78, Physics=41;
 	int Avg = (English + Math + Physics) / 3;
 	char Grade1 = 'A', Grade2='B', Grade3='C', Grade4='F' ;
 	int subject;
