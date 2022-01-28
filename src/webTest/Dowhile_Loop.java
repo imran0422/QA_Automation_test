@@ -7,7 +7,5 @@ public class Dowhile_Loop {
 		do {
 			System.out.println(i);
 		} while (true);
-
 	}
-
 }
