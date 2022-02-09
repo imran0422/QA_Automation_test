@@ -1,4 +1,4 @@
-package Inherintance_and_Abstraction_Practice;
+package inherintanceAndAbstractionPractice;
 
 public class SubclassA extends SuperclassC { // Cannot inherit 2 classes using another extends command ? SuperclassB -
 												// Father and SuperclassC Mother ?

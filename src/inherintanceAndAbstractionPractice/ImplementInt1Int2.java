@@ -1,4 +1,4 @@
-package Inherintance_and_Abstraction_Practice;
+package inherintanceAndAbstractionPractice;
 
 public class ImplementInt1Int2 implements Inter1, Inter2 {
 

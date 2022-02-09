@@ -1,4 +1,4 @@
-package Inherintance_and_Abstraction_Practice;
+package inherintanceAndAbstractionPractice;
 
 public interface Inter2 {
 	public abstract void Inter2_1();

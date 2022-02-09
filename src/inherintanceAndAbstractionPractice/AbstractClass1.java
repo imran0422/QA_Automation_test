@@ -1,4 +1,4 @@
-package Inherintance_and_Abstraction_Practice;
+package inherintanceAndAbstractionPractice;
 
 public abstract class AbstractClass1 {
 
