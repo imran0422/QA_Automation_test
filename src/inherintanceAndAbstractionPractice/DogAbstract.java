@@ -7,6 +7,7 @@ public class DogAbstract {
 		myDog.animalSound();
 		myDog.sleep();
 		myDog.birdsound();
+		myDog.humansound();
 
 	}
 
@@ -16,9 +17,14 @@ public class DogAbstract {
 
 	public void sleep() {
 		System.out.println("Zzz");
-		
+
 	}
+
 	public void birdsound() {
 		System.out.println("Ku Ku Ku");
+	}
+
+	public void humansound() {
+		System.out.println("Hello I am human");
 	}
 }
